@@ -4,3 +4,4 @@ Author information: Okhrimenko Evhen, E-mail:oeasoft@gmail.com
 
 Update history:
 1) Add the main method with output to the console "Hello, world!"
+2) Added to main.java a static method that takes one parameter for output to the console. 
